@@ -9,7 +9,13 @@ README.md
 ```
 
 ## Start a project
+```
 django-admin startproject portfolio
+```
+| Files | Description |
+| ------|-------------|
+|manage.py | Runs commands|
+|portfolio/__init__.py|Tells Python that the folder contain Python files|
 
 ## Create an App
 ```
