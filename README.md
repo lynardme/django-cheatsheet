@@ -15,7 +15,7 @@ django-admin startproject portfolio
 | Files | Description |
 | ------|-------------|
 |manage.py | Runs commands|
-|portfolio/__init__.py|Tells Python that the folder contain Python files|
+|portfolio/_ _init_ _.py|Tells Python that the folder contain Python files|
 
 ## Create an App
 ```
