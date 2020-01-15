@@ -1,6 +1,11 @@
 # Django Cheat Sheet  
 My own cheat-sheet for creating web application using Django
 
+## Create an App
+```
+python manage.py startapp portfolio
+```
+
 ## Pieces of App
 | File / Folder | Role
 | ------------- |----------------------------------|
