@@ -46,4 +46,5 @@ python manage.py startapp portfolio
 | migrations | Holds migrations files |
 
 ## Models, routing, views and templates
-learningdjango
+URL Patterns
+- portfolio/urls.py
