@@ -47,6 +47,6 @@ python manage.py startapp portfolio
 
 ## Models, routing, views and templates
 __URL Patterns__
-- portfolio/urls.py
+- portfolio/urls.py  
 __Views__
 - portfolio/views.py
