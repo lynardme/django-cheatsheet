@@ -16,7 +16,9 @@ django-admin startproject portfolio
 ```
 manage.py - runs commands
 portfolio/__init__.py - Tells Python that the folder contain Python files
-
+portfolio/wsgi.py - Provides a hook for web servers
+portfolio/settings.py - Configures Django
+portfolio/urls.py - Routes requests based on URL
 ```
 
 ## Create an App
