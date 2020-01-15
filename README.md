@@ -46,5 +46,7 @@ python manage.py startapp portfolio
 | migrations | Holds migrations files |
 
 ## Models, routing, views and templates
-URL Patterns
+__URL Patterns__
 - portfolio/urls.py
+__Views__
+- portfolio/views.py
