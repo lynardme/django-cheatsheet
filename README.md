@@ -3,8 +3,16 @@ My own cheat-sheet for creating web application using Django
 
 ## Folder structure
 ```
-learningdjango
-└───
+learning-django
+└─── portfolio
+    └─── portfolio
+         ─ settings.py
+         ─ urls.py
+         ─ wsgi.py
+    └─── db.sqlite3
+    └─── manage.py
+└─── .gitignore
+└─── README.md
 README.md
 ```
 
